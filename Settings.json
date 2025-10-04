@@ -1,0 +1,195 @@
+{
+    "Status": {
+        "Running": true,
+        "Minute": "38"
+    },
+    "Channels": {
+        "969475932995878962": {
+            "Position": 1,
+            "KPMax": 120,
+            "KPCons": 32,
+            "KPThresh": 0,
+            "ButtonsToggle": true,
+            "ButtonsClaimer": true,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "868696086846529567": {
+            "Position": 3,
+            "KPMax": 110,
+            "KPCons": 34,
+            "KPThresh": 50,
+            "ButtonsToggle": false,
+            "ButtonsClaimer": false,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "950103271052308480": {
+            "Position": 5,
+            "KPMax": 110,
+            "KPCons": 34,
+            "KPThresh": 36,
+            "ButtonsToggle": false,
+            "ButtonsClaimer": false,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "845026793497034852": {
+            "Position": 6,
+            "KPMax": 110,
+            "KPCons": 34,
+            "KPThresh": 50,
+            "ButtonsToggle": false,
+            "ButtonsClaimer": false,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "962099668911783996": {
+            "Position": 7,
+            "KPMax": 110,
+            "KPCons": 34,
+            "KPThresh": 50,
+            "ButtonsToggle": true,
+            "ButtonsClaimer": true,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "936564914867286036": {
+            "Position": 8,
+            "KPMax": 110,
+            "KPCons": 36,
+            "KPThresh": 50,
+            "ButtonsToggle": false,
+            "ButtonsClaimer": false,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "939022892610514944": {
+            "Position": 9,
+            "KPMax": 115,
+            "KPCons": 34,
+            "KPThresh": 50,
+            "ButtonsToggle": false,
+            "ButtonsClaimer": false,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "913284026272469102": {
+            "Position": 11,
+            "KPMax": 120,
+            "KPCons": 32,
+            "KPThresh": 50,
+            "ButtonsToggle": false,
+            "ButtonsClaimer": false,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": false
+        },
+        "941275090589462549": {
+            "Position": 12,
+            "KPMax": 110,
+            "KPCons": 34,
+            "KPThresh": 50,
+            "ButtonsToggle": false,
+            "ButtonsClaimer": false,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": false
+        },
+        "716643303684308992": {
+            "Position": 13,
+            "KPMax": 115,
+            "KPCons": 34,
+            "KPThresh": 100,
+            "ButtonsToggle": true,
+            "ButtonsClaimer": true,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "869213853332938822": {
+            "Position": 14,
+            "KPMax": 115,
+            "KPCons": 34,
+            "KPThresh": 50,
+            "ButtonsToggle": true,
+            "ButtonsClaimer": true,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "873147584464711712": {
+            "Position": 2,
+            "KPMax": 125,
+            "KPCons": 30,
+            "KPThresh": 50,
+            "ButtonsToggle": false,
+            "ButtonsClaimer": false,
+            "ClaimThresh": 100000,
+            "CharThresh": 300,
+            "Slash": true
+        },
+        "983991573798846504": {
+            "Position": 15,
+            "KPMax": 100,
+            "KPCons": 40,
+            "KPThresh": 0,
+            "ButtonsToggle": true,
+            "ButtonsClaimer": true,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "984120699817963640": {
+            "Position": 4,
+            "KPMax": 100,
+            "KPCons": 36,
+            "KPThresh": 0,
+            "ButtonsToggle": true,
+            "ButtonsClaimer": true,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "942277495846207548": {
+            "Position": 16,
+            "KPMax": 120,
+            "KPCons": 32,
+            "KPThresh": 50,
+            "ButtonsToggle": false,
+            "ButtonsClaimer": false,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "912276231901315085": {
+            "Position": 10,
+            "KPMax": 125,
+            "KPCons": 30,
+            "KPThresh": 50,
+            "ButtonsToggle": false,
+            "ButtonsClaimer": false,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        },
+        "924441806580625419": {
+            "Position": 17,
+            "KPMax": 125,
+            "KPCons": 30,
+            "KPThresh": 50,
+            "ButtonsToggle": true,
+            "ButtonsClaimer": false,
+            "ClaimThresh": 400,
+            "CharThresh": 270,
+            "Slash": true
+        }
+    }
+}
